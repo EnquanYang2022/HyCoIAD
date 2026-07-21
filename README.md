@@ -13,7 +13,7 @@ Enquan Yang, Zhengqin Xu, Xilin Xu, Peng Xing, Yuanwei Ma, Zechao Li, and Dan Ze
 
 ## News
 
-- **[2026-07-21]** The code repository is being prepared for public release.
+- **[2026-07-21]** The code will be made publicly available upon publication of the paper.
 
 ## Overview
 
