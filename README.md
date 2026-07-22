@@ -13,14 +13,14 @@ Enquan Yang, Zhengqin Xu, Xilin Xu, Peng Xing, Yuanwei Ma, Zechao Li, and Dan Ze
 
 ## News
 
-* **[2026-07-22]** The trained HyCo-IAD checkpoint is available on [Google Drive](https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing).
+* **[2026-07-22]** The trained HyCo-IAD checkpoint is available on [Google Drive].
 * **[2026-07-21]** The complete code will be made publicly available upon publication of the paper.
 
 ## Model Checkpoint
 
 The trained HyCo-IAD checkpoint based on Qwen2.5-VL-3B-Instruct can be downloaded from:
 
-* [HyCo-IAD Checkpoint (Google Drive)]([https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing](https://drive.google.com/file/d/12hCT3gkhJ3FkGMwzRuYI7lCQzBKZTTgS/view?usp=sharing))
+* [HyCo-IAD Checkpoint (Google Drive)](https://drive.google.com/file/d/12hCT3gkhJ3FkGMwzRuYI7lCQzBKZTTgS/view?usp=sharing)
 
 ## Overview
 
