@@ -9,11 +9,18 @@ Enquan Yang, Zhengqin Xu, Xilin Xu, Peng Xing, Yuanwei Ma, Zechao Li, and Dan Ze
 [![Model](https://img.shields.io/badge/Backbone-Qwen2.5--VL--3B-7E57C2.svg)](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
 [![Benchmark](https://img.shields.io/badge/Benchmark-MMAD-green.svg)](https://github.com/jam-cc/MMAD)
 
-> Paper, pretrained checkpoints, and complete environment specifications will be released soon.
+> The trained model checkpoint is now available. The paper and complete environment specifications will be released upon publication.
 
 ## News
 
-- **[2026-07-21]** The code will be made publicly available upon publication of the paper.
+* **[2026-07-22]** The trained HyCo-IAD checkpoint is available on [Google Drive](https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing).
+* **[2026-07-21]** The complete code will be made publicly available upon publication of the paper.
+
+## Model Checkpoint
+
+The trained HyCo-IAD checkpoint based on Qwen2.5-VL-3B-Instruct can be downloaded from:
+
+* [HyCo-IAD Checkpoint (Google Drive)]([https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing](https://drive.google.com/file/d/12hCT3gkhJ3FkGMwzRuYI7lCQzBKZTTgS/view?usp=sharing))
 
 ## Overview
 
